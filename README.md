@@ -1,6 +1,3 @@
-Here's your **GitHub README** for the **Ai_Tutor** project:  
-
----
 
 # **Ai_Tutor** 🧠📚  
 AI-powered Tutor with OCR and Vector Storage  
