@@ -1,0 +1,13 @@
+exa_py
+fastapi
+mistralai
+motor
+nest_asyncio
+pandas
+pydantic
+pydantic_ai
+python-dotenv
+qdrant_client
+Requests
+sentence_transformers
+streamlit

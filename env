@@ -1,0 +1,4 @@
+export GROQ_API_KEY=""
+export MISTRAL_OCR_API_KEY=""
+export MISTRAL_API_KEY=""
+export EXA_API_KEY=""
